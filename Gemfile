@@ -40,3 +40,6 @@ gem 'spring', group: :development
 
 # Use bootstrap-sass for Bootstrap hotness
 gem 'bootstrap-sass', '~> 3.1.1'
+
+# dotenv for ENV variables
+gem 'dotenv-rails'
